@@ -5,8 +5,7 @@
 Write a query to fetch the number of transactions per user city, 
 ordered by descending number of transactions, 
 using an e-commerce database described by the schema shown below:
-
-URL: https://www.tryexponent.com/courses/sql-interviews/sales-by-city
+https://www.tryexponent.com/courses/sql-interviews/sales-by-city
 */ 
 
 -- Write your query here
